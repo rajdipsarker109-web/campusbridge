@@ -1,0 +1,3555 @@
+[
+  {
+    "id": "wb-36",
+    "name": "Brainware University",
+    "city": "Barasat",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.brainwareuniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [
+      {
+        "name": "B.Tech Computer Science & Engineering",
+        "level": "Undergraduate",
+        "duration": "4 years",
+        "fee": 579600
+      },
+      {
+        "name": "B.Tech CSE – Artificial Intelligence & Machine Learning",
+        "level": "Undergraduate",
+        "duration": "4 years",
+        "fee": 579600
+      },
+      {
+        "name": "B.Tech CSE – Artificial Intelligence & Robotics",
+        "level": "Undergraduate",
+        "duration": "4 years",
+        "fee": 579600
+      }
+    ],
+    "fields": [
+      "Engineering",
+      "Business",
+      "Science",
+      "Health",
+      "Law",
+      "Agriculture"
+    ],
+    "checked": "6 November 2026",
+    "courseSource": "https://www.brainwareuniversity.ac.in/degree-programmes/",
+    "feeNote": "The 2026–27 programme page lists ₹5,79,600 against each of these four-year programmes. This is a published programme fee, NOT an annual or confirmed international-student tuition quote. Ask admissions for the fee basis, inclusions and your nationality-specific schedule.",
+    "image": "https://images.shiksha.com/mediadata/images/articles/1655015407phpfRVQCA.jpeg",
+    "imageSource": "https://www.shiksha.com/articles/brainware-university-campus-area-blogId-93601",
+    "imageCredit": "Shiksha",
+    "admission": "https://www.brainwareuniversity.ac.in/foreign-admission.php",
+    "imageCaption": "Brainware University — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Barasat campus",
+        "query": "Brainware University 398 Ramkrishnapur Road Barasat Kolkata 700125",
+        "address": "398, Ramkrishnapur Road, Barasat, Kolkata, West Bengal 700125",
+        "source": "https://www.brainwareuniversity.ac.in/"
+      }
+    ]
+  },
+  {
+    "id": "wb-34",
+    "name": "Adamas University",
+    "city": "Barasat",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://adamasuniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [
+      {
+        "name": "B.Tech Computer Science & Engineering",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "B.Tech CSE – AI & Machine Learning",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "BCA",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "BBA",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "MBA",
+        "level": "Postgraduate"
+      },
+      {
+        "name": "MCA",
+        "level": "Postgraduate"
+      }
+    ],
+    "fields": [
+      "Engineering",
+      "Business",
+      "Science",
+      "Law",
+      "Agriculture"
+    ],
+    "checked": "6 November 2026",
+    "courseSource": "https://adamasuniversity.ac.in/",
+    "image": "https://www.collegebatch.com/static/clg-gallery/adamas-university-kolkata-216693.jpg",
+    "imageSource": "https://www.collegebatch.com/10899-adamas-university-campus-tour-kolkata",
+    "imageCredit": "CollegeBatch",
+    "facultySource": "https://adamasuniversity.ac.in/our-faculty/",
+    "imageCaption": "Adamas University — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Adamas Knowledge City",
+        "query": "Adamas University Barasat Barrackpore Road Jagannathpur Kolkata 700126",
+        "address": "Adamas Knowledge City, Barasat–Barrackpore Road, P.O. Jagannathpur, Kolkata 700126",
+        "source": "https://adamasuniversity.ac.in/contact-us/"
+      }
+    ]
+  },
+  {
+    "id": "wb-35",
+    "name": "JIS University",
+    "city": "Agarpara",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.jisuniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [
+      "Engineering",
+      "Business",
+      "Science",
+      "Health",
+      "Law",
+      "Agriculture"
+    ],
+    "checked": "6 November 2026",
+    "courseSource": "https://www.jisuniversity.ac.in/admission-procedure.php",
+    "contact": "admissions@jisuniversity.ac.in",
+    "phone": "+91 8697743361 / 62",
+    "admission": "https://www.jisuniversity.ac.in/admission-procedure.php",
+    "image": "https://www.collegebatch.com/static/clg-gallery/jis-university-kolkata-288122.jpg",
+    "imageSource": "https://www.collegebatch.com/reviews/22261-jis-university-kolkata",
+    "imageCredit": "CollegeBatch",
+    "imageCaption": "JIS University — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Agarpara",
+        "query": "JIS University, Agarpara, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-32",
+    "name": "Techno India University",
+    "city": "Salt Lake, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.technoindiauniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "contact": "admission@technoindiauniversity.ac.in",
+    "phone": "9836544419 / 9836544418",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1766143933Academic%20Building%203_11zon.jpg",
+    "imageSource": "https://collegedunia.com/university/15439-techno-india-university-kolkata/gallery",
+    "imageCredit": "Collegedunia",
+    "imageCaption": "Techno India University — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Salt Lake, Kolkata",
+        "query": "Techno India University, Salt Lake, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-1",
+    "name": "Institute of Engineering & Management (IEM), Kolkata",
+    "city": "Salt Lake, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "College",
+    "url": "https://iem.edu.in/",
+    "source": "https://iem.edu.in/",
+    "sourceLabel": "Institution website",
+    "courses": [
+      {
+        "name": "Computer Science Engineering",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "Electrical Engineering",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "MBA",
+        "level": "Postgraduate"
+      }
+    ],
+    "fields": [
+      "Engineering",
+      "Business"
+    ],
+    "checked": "6 November 2026",
+    "courseSource": "https://iem.edu.in/",
+    "contactUrl": "https://iem.edu.in/contact-us/",
+    "phone": "8010700500 / 8069795500",
+    "image": "https://qs-igauge.blr1.cdn.digitaloceanspaces.com/14206294393.webp",
+    "imageSource": "https://www.igauge.in/institution/colleges/institute-of-engineering-management-iem-kolkata",
+    "imageCredit": "QS I-GAUGE",
+    "imageCaption": "Institute of Engineering & Management (IEM), Kolkata — photograph from linked source",
+    "aliases": [
+      "IEM",
+      "Institute of Engineering and Management"
+    ],
+    "campuses": [
+      {
+        "label": "Salt Lake, Kolkata",
+        "query": "Institute of Engineering & Management (IEM), Kolkata, Salt Lake, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-2",
+    "name": "JIS College of Engineering",
+    "city": "Kalyani",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "College",
+    "url": "https://www.jiscollege.ac.in/",
+    "source": "https://www.jiscollege.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "BCA",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "BBA",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "M.Tech",
+        "level": "Postgraduate"
+      },
+      {
+        "name": "MCA",
+        "level": "Postgraduate"
+      },
+      {
+        "name": "MBA",
+        "level": "Postgraduate"
+      }
+    ],
+    "fields": [
+      "Engineering",
+      "Business"
+    ],
+    "checked": "6 November 2026",
+    "courseSource": "https://www.jisgroup.org/jis-campuses",
+    "admission": "https://www.jiscollege.ac.in/admission-procedure.php",
+    "image": "https://mycareersview.com/afile/mcv23240_1581918666phpWyDsQq.jpeg",
+    "imageSource": "https://mycareersview.com/page-details.php?datatype=C&id=3307",
+    "imageCredit": "mycareersview.com",
+    "imageCaption": "JIS College of Engineering — campus photograph from linked source",
+    "aliases": [
+      "JIS College",
+      "JISCE"
+    ],
+    "campuses": [
+      {
+        "label": "Kalyani",
+        "query": "JIS College of Engineering, Kalyani, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-3",
+    "name": "Techno Main Salt Lake",
+    "city": "Salt Lake, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "College",
+    "url": "https://www.technomainsaltlake.ticollege.ac.in/",
+    "source": "https://www.technomainsaltlake.ticollege.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [
+      {
+        "name": "B.Tech in Food Technology",
+        "level": "Undergraduate"
+      },
+      {
+        "name": "B.Tech in Information Technology",
+        "level": "Undergraduate"
+      }
+    ],
+    "fields": [
+      "Engineering"
+    ],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/techno-india-salt-lake-kolkata-214936.jpg",
+    "imageSource": "https://www.collegebatch.com/13714-techno-main-salt-lake-campus-tour-kolkata",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Techno Main Salt Lake — campus photograph from linked source",
+    "courseSource": "https://www.technomainsaltlake.ticollege.ac.in/",
+    "aliases": [
+      "Techno Main",
+      "TMSL"
+    ],
+    "campuses": [
+      {
+        "label": "Salt Lake, Kolkata",
+        "query": "Techno Main Salt Lake, Salt Lake, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-40",
+    "name": "University of Engineering & Management, Kolkata",
+    "city": "New Town, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://uem.edu.in/uem-kolkata/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://images.shiksha.com/mediadata/images/1744695970phpT6M0m5_g.jpg",
+    "imageSource": "https://www.shiksha.com/university/uem-kolkata-university-of-engineering-and-management-47398/gallery",
+    "imageCredit": "shiksha.com",
+    "imageCaption": "University of Engineering & Management, Kolkata — campus photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "New Town, Kolkata",
+        "query": "University of Engineering & Management, Kolkata, New Town, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-2",
+    "name": "Jadavpur University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://jaduniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://image-static.collegedunia.com/public/college_data/images/campusimage/1593866646IMG_20191028_151837364_HDR-min.jpg",
+    "imageSource": "https://collegedunia.com/university/26008-jadavpur-university-ju-kolkata/bachelor-of-science-bsc-physics-4120",
+    "imageCredit": "Collegedunia",
+    "imageCaption": "Jadavpur University — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Jadavpur University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-1",
+    "name": "University of Calcutta",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://caluniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://images.shiksha.com/mediadata/images/1745908179phpI9UDDK_g.jpg",
+    "imageSource": "https://www.shiksha.com/university/calcutta-university-kolkata-24674/gallery",
+    "imageCredit": "Shiksha",
+    "imageCaption": "University of Calcutta — photograph from linked source",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "University of Calcutta, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-3",
+    "name": "Rabindra Bharati University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://rbu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://data1.ibtimes.co.in/en/full/716739/rabindra-bharathi-university.jpg",
+    "imageSource": "https://www.ibtimes.co.in/5-professors-rabindra-bharati-university-resign-over-caste-slurs-woman-teacher-799898",
+    "imageCredit": "ibtimes.co.in",
+    "imageCaption": "Rabindra Bharati University Administrative Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Rabindra Bharati University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-4",
+    "name": "Presidency University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://presiuniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://presiuniv.ac.in/web/img/un1.jpg",
+    "imageSource": "https://presiuniv.ac.in/web/",
+    "imageCredit": "presiuniv.ac.in",
+    "imageCaption": "Presidency University Building at Night",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Presidency University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-5",
+    "name": "West Bengal State University",
+    "city": "Barasat",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://wbsu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/West_Bengal_State_University.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AWest_Bengal_State_University.jpg",
+    "imageCredit": "रोहित साव27 · CC BY-SA 4.0",
+    "imageCaption": "West Bengal State University Campus",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Barasat",
+        "query": "West Bengal State University, Barasat, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-6",
+    "name": "University of Kalyani",
+    "city": "Kalyani",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://klyuniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A3%E0%A7%80_%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A3%E0%A7%80_%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC.jpg",
+    "imageCredit": "শরদিন্দু ভট্টাচার্য্য · CC BY-SA 4.0",
+    "imageCaption": "University of Kalyani Golden Jubilee Gate",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kalyani",
+        "query": "University of Kalyani, Kalyani, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-7",
+    "name": "Vidyasagar University",
+    "city": "Midnapore",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://vidyasagar.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.vidyasagar.ac.in/Masters/images/bg/university_gate.jpg",
+    "imageSource": "https://www.vidyasagar.ac.in/Default.aspx",
+    "imageCredit": "vidyasagar.ac.in",
+    "imageCaption": "Vidyasagar University Entrance Gate",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Midnapore",
+        "query": "Vidyasagar University, Midnapore, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-8",
+    "name": "University of Burdwan",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://buruniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B.U._academic_complex_south_gate.jpg/1280px-B.U._academic_complex_south_gate.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AB.U._academic_complex_south_gate.jpg",
+    "imageCredit": "Joydeep · CC BY-SA 3.0",
+    "imageCaption": "South Gate of Burdwan University Academic Complex",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Bardhaman",
+        "query": "University of Burdwan, Bardhaman, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-9",
+    "name": "Bankura University",
+    "city": "Bankura",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://bankurauniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.telegraphindia.com/abp/2024/Mar/1710325923_untitled-design-61.jpg",
+    "imageSource": "https://www.anandabazar.com/employment/bankra-university-will-recruit-for-the-post-of-expert-dgtl/cid/1502664",
+    "imageCredit": "anandabazar.com",
+    "imageCaption": "Bankura University Academic Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Bankura",
+        "query": "Bankura University, Bankura, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-10",
+    "name": "Sidho-Kanho-Birsha University",
+    "city": "Purulia",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://skbu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.shikshahub.com/uploads/blogs/1705491065.jpg",
+    "imageSource": "https://www.shikshahub.com/blog/sidhokanhobirsha-university--skbu-purulia-west-bengal-about-us-courses-eligibility-fees-admission-ranking-syllabus-placement-2024",
+    "imageCredit": "shikshahub.com",
+    "imageCaption": "Sidho-Kanho-Birsha University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Purulia",
+        "query": "Sidho-Kanho-Birsha University, Purulia, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-11",
+    "name": "Kazi Nazrul University",
+    "city": "Asansol",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://knu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.telegraphindia.com/abp/2023/May/1683346322_kazi-nazrul-university.jpg",
+    "imageSource": "https://www.anandabazar.com/education-career/kazi-nazrul-university-publishes-notice-for-the-academic-session-of-2023-24-ug-courses-dgtl/cid/1455023",
+    "imageCredit": "anandabazar.com",
+    "imageCaption": "Kazi Nazrul University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Asansol",
+        "query": "Kazi Nazrul University, Asansol, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-12",
+    "name": "University of Gour Banga",
+    "city": "Malda",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://ugb.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://mc-webpcache.readwhere.in/mcms.php?in=https%3A%2F%2Fmcmscache.epapr.in%2Fpost_images%2Fwebsite_356%2Fpost_46255308%2Ffull.jpg&size=large",
+    "imageSource": "https://www.sangbadpratidin.in/bengal/controversy-over-gour-banga-universitys-professor-sons-result/",
+    "imageCredit": "sangbadpratidin.in",
+    "imageCaption": "University of Gour Banga Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Malda",
+        "query": "University of Gour Banga, Malda, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-13",
+    "name": "University of North Bengal",
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://nbu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.kollegeapply.com/images/1751568384726-1620035727phpJjaGcp.jpeg",
+    "imageSource": "https://www.kollegeapply.com/college/university-of-north-bengal-siliguri-gallery",
+    "imageCredit": "kollegeapply.com",
+    "imageCaption": "University of North Bengal Gate No. 2 Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Siliguri",
+        "query": "University of North Bengal, Siliguri, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-14",
+    "name": "Cooch Behar Panchanan Barma University",
+    "city": "Cooch Behar",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://cbpbu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://banglaruchchashiksha.wb.gov.in/assets/images/hed/CPBU.jpeg",
+    "imageSource": "https://banglaruchchashiksha.wb.gov.in/university_campuses",
+    "imageCredit": "banglaruchchashiksha.wb.gov.in",
+    "imageCaption": "Cooch Behar Panchanan Barma University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Cooch Behar",
+        "query": "Cooch Behar Panchanan Barma University, Cooch Behar, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-15",
+    "name": "Diamond Harbour Women's University",
+    "city": "Diamond Harbour",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://dhwu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://dhwu.ac.in/images/slide3.jpg",
+    "imageSource": "https://dhwu.ac.in/",
+    "imageCredit": "dhwu.ac.in",
+    "imageCaption": "Diamond Harbour Women’s University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Diamond Harbour",
+        "query": "Diamond Harbour Women's University, Diamond Harbour, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-16",
+    "name": "Sanskrit College and University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://sansuniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/the-sanskrit-college-university-kolkata-296999.webp",
+    "imageSource": "https://www.collegebatch.com/16502-the-sanskrit-college-and-university-campus-tour-kolkata-fs05",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Sanskrit College Facade",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Sanskrit College and University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-17",
+    "name": "Raiganj University",
+    "city": "Raiganj",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://raiganjuniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://akm-img-a-in.tosshub.com/sites/resources/campus/prod/img/campusview/2023/8/campus1cb9f1a3786101106939867523.jpg",
+    "imageSource": "https://www.aajtakcampus.in/college/raiganj-university-raiganj",
+    "imageCredit": "aajtakcampus.in",
+    "imageCaption": "Raiganj University Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Raiganj",
+        "query": "Raiganj University, Raiganj, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-18",
+    "name": "Maulana Abul Kalam Azad University of Technology (MAKAUT)",
+    "city": "Haringhata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://makautwb.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.shikshahub.com/uploads/blogs/1705580455.jpg",
+    "imageSource": "https://www.shikshahub.com/blog/maulana-abul-kalam-azad-university-of-technology--makaut-haringhata-west-bengal-about-us-courses-eligibility-fees-admission-ranking-syllabus-placement-2024",
+    "imageCredit": "shikshahub.com",
+    "imageCaption": "Maulana Abul Kalam Azad University of Technology Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Haringhata",
+        "query": "Maulana Abul Kalam Azad University of Technology (MAKAUT), Haringhata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-19",
+    "name": "Rani Rashmoni Green University",
+    "city": "Hooghly",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://rrgu.org/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://images.indianexpress.com/2026/03/RANI-RASHMONI-GREEN-UNIVERSITY.jpg",
+    "imageSource": "https://indianexpress.com/article/express-exclusive/bengals-dream-new-universities-makeshift-campuses-faculty-at-rs-500-per-class-falling-student-numbers-10610388/",
+    "imageCredit": "indianexpress.com",
+    "imageCaption": "University construction signboard — archival source image, not a completed-campus photograph",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Hooghly",
+        "query": "Rani Rashmoni Green University, Hooghly, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-20",
+    "name": "Netaji Subhas Open University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://wbnsou.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.telegraphindia.com/abp/2023/Apr/1681605955_netaji.jpg",
+    "imageSource": "https://www.anandabazar.com/west-bengal/chandan-basu-to-take-charge-as-the-interim-vice-chancellor-of-netaji-subhas-open-university/cid/1422769",
+    "imageCredit": "anandabazar.com",
+    "imageCaption": "Netaji Subhas Open University Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Netaji Subhas Open University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-21",
+    "name": "Baba Saheb Ambedkar Education University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://bsaeu.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.telegraphindia.com/abp/2023/Dec/1703684841_baba-saheb.jpg",
+    "imageSource": "https://www.anandabazar.com/west-bengal/allegations-of-corruption-in-b-d-college-renewal-under-baba-saheb-ambedkar-education-university-of-wb-pil-filed-before-calcutta-high-court-dgtl/cid/1484583",
+    "imageCredit": "anandabazar.com",
+    "imageCaption": "Baba Saheb Ambedkar Education University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Baba Saheb Ambedkar Education University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-22",
+    "name": "Harichand Guruchand University",
+    "city": "North 24 Parganas",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://harichandguruchanduniversity.com/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/44820/2022/6/1/University%20building%20of%20Harichand%20Guruchand%20University%20North%2024%20Parganas_Campus-View.jpg",
+    "imageSource": "https://www.careers360.com/university/harichand-guruchand-university-north-24-parganas",
+    "imageCredit": "careers360.com",
+    "imageCaption": "Harichand Guruchand University Campus Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "North 24 Parganas",
+        "query": "Harichand Guruchand University, North 24 Parganas, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-23",
+    "name": "Hindi University",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://hindiuniv.org.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Howrah",
+        "query": "Hindi University, Howrah, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-24",
+    "name": "Kanyashree University",
+    "city": "Krishnanagar",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://kanyashreeuniversity.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/kanyashree-university-nadia-286932.jpg",
+    "imageSource": "https://www.collegebatch.com/21051-kanyashree-university-in-nadia",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Kanyashree University Entrance Sign",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Krishnanagar",
+        "query": "Kanyashree University, Krishnanagar, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-25",
+    "name": "Murshidabad University",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://murshidabaduniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.telegraphindia.com/abp/2024/Sep/1726050620_1724327066_untitled-design-2024-08-22t171436-138.jpg",
+    "imageSource": "https://www.anandabazar.com/employment/murshidabad-university-will-recruit-guest-teacher-for-santali-department-dgtl/cid/1545002",
+    "imageCredit": "anandabazar.com",
+    "imageCaption": "Murshidabad University Manindrachandra P.G. Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Berhampore",
+        "query": "Murshidabad University, Berhampore, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-26",
+    "name": "Biswa Bangla Biswabidyalay",
+    "city": "Bolpur",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://biswabanglabiswabidyalay.org/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://cdn.validcollege.com/uploads/b373b4e2-bac2-4eef-9b5b-2f6376258d06.jpg",
+    "imageSource": "https://validcollege.com/college/biswa-bangla-biswabidyalay-bolpur-west-bengal",
+    "imageCredit": "validcollege.com",
+    "imageCaption": "Biswa Bangla Biswabidyalay Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Bolpur",
+        "query": "Biswa Bangla Biswabidyalay, Bolpur, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-27",
+    "name": "Mahatma Gandhi University, West Bengal",
+    "city": "Purba Medinipur",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://mguwb.org.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://images.indianexpress.com/2026/03/MAHATMA-GANDHI-UNIVERSITY.jpg",
+    "imageSource": "https://indianexpress.com/article/express-exclusive/bengals-dream-new-universities-makeshift-campuses-faculty-at-rs-500-per-class-falling-student-numbers-10610388/",
+    "imageCredit": "indianexpress.com",
+    "imageCaption": "Mahatma Gandhi University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Purba Medinipur",
+        "query": "Mahatma Gandhi University, West Bengal, Purba Medinipur, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-28",
+    "name": "Sadhu Ramchand Murmu University of Jhargram",
+    "city": "Jhargram",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://srcmuj.org/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/sadhu-ram-chand-murmu-university-of-jhargram-jhargram-286873.webp",
+    "imageSource": "https://www.collegebatch.com/21048-sadhu-ram-chand-murmu-university-of-jhargram-campus-tour-jhargram-fs010",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Sadhu Ram Chand Murmu University Campus Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Jhargram",
+        "query": "Sadhu Ramchand Murmu University of Jhargram, Jhargram, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-29",
+    "name": "Dakshin Dinajpur University",
+    "city": "Balurghat",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://dduniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.dduniv.ac.in/images/univ-bg.jpg",
+    "imageSource": "https://www.dduniv.ac.in/index-3.html",
+    "imageCredit": "dduniv.ac.in",
+    "imageCaption": "Dakshin Dinajpur University Campus Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Balurghat",
+        "query": "Dakshin Dinajpur University, Balurghat, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-30",
+    "name": "Alipurduar University",
+    "city": "Alipurduar",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://alipurduaruniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://validcollege.com/_next/image?q=75&url=https%3A%2F%2Fcdn.validcollege.com%2Fuploads%2F4ae6fe63-b594-42fa-be23-b188ae834c09.jpg&w=3840",
+    "imageSource": "https://validcollege.com/college/alipurduar-university-west-bengal",
+    "imageCredit": "validcollege.com",
+    "imageCaption": "Alipurduar University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Alipurduar",
+        "query": "Alipurduar University, Alipurduar, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-31",
+    "name": "Darjeeling Hills University",
+    "city": "Darjeeling district",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "State university",
+    "url": "https://dhuniv.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/darjeeling-hills-university-darjeeling-296977.webp",
+    "imageSource": "https://www.collegebatch.com/19389-darjeeling-hills-university-in-darjeeling-fs05",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Darjeeling Hills University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Darjeeling district",
+        "query": "Darjeeling Hills University, Darjeeling district, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-33",
+    "name": "Seacom Skills University",
+    "city": "Birbhum",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://seacomskillsuniversity.org/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/seacom-skills-university-birbhum-357170.jpg",
+    "imageSource": "https://www.collegebatch.com/13694-seacom-skills-university-campus-tour-birbhum",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "Seacom Skills University Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Birbhum",
+        "query": "Seacom Skills University, Birbhum, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-37",
+    "name": "Amity University Kolkata",
+    "city": "New Town, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.amity.edu/kolkata/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.vga.co.in/wp-content/uploads/2022/11/Amity-University-Kolkata.jpg",
+    "imageSource": "https://www.vga.co.in/blogs/translating-urban-identity-through-institutional-design/",
+    "imageCredit": "vga.co.in",
+    "imageCaption": "Amity University Kolkata Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "New Town, Kolkata",
+        "query": "Amity University Kolkata, New Town, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-38",
+    "name": "Sister Nivedita University",
+    "city": "New Town, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://snuniv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sister_Nivedita_University.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sister_Nivedita_University.jpg",
+    "imageCredit": "Salil Kumar Mukherjee · CC BY-SA 4.0",
+    "imageCaption": "Sister Nivedita University Entrance",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "New Town, Kolkata",
+        "query": "Sister Nivedita University, New Town, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-39",
+    "name": "The Neotia University",
+    "city": "Sarisha",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.tnu.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://setuvidhya.com/storage/uploads/posts/xUgq6SoZ022WgqvuviWJY8ndCf7LA2iKSykTLUXo.webp",
+    "imageSource": "https://setuvidhya.com/faculty-academic/teaching/the-neotia-university-recruitment-2026-multiple-administrative-positions-apply-now",
+    "imageCredit": "setuvidhya.com",
+    "imageCaption": "The Neotia University Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Sarisha",
+        "query": "The Neotia University, Sarisha, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-41",
+    "name": "St. Xavier's University, Kolkata",
+    "city": "New Town, Kolkata",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.sxuk.edu.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://ch-upload.blr1.cdn.digitaloceanspaces.com/collegehai-prod/7242a7368eb07172e832354a9c6593d9.webp",
+    "imageSource": "https://collegehai.com/colleges/st-xavier-s-university-kolkata/admission",
+    "imageCredit": "collegehai.com",
+    "imageCaption": "St. Xavier’s University Campus Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "New Town, Kolkata",
+        "query": "St. Xavier's University, Kolkata, New Town, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-42",
+    "name": "Swami Vivekananda University",
+    "city": "Barrackpore",
+    "state": "West Bengal",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.swamivivekanandauniversity.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Swami_Vivekananda_University_campus_in_Barrackpore_11.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASwami_Vivekananda_University_campus_in_Barrackpore_11.jpg",
+    "imageCredit": "Pinakpani · CC BY-SA 4.0",
+    "imageCaption": "Swami Vivekananda University Entrance",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Barrackpore",
+        "query": "Swami Vivekananda University, Barrackpore, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-43",
+    "name": "Ramakrishna Mission Vivekananda Educational and Research Institute",
+    "city": "Belur, Howrah",
+    "state": "West Bengal",
+    "type": "Deemed",
+    "kind": "Deemed university",
+    "url": "https://www.rkmvu.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ramakrishna_Mission_Vivekananda_Educational_and_Research_Institute_in_Belur_Math%2C_Howrah%2C_West_Bengal%2C_India.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARamakrishna_Mission_Vivekananda_Educational_and_Research_Institute_in_Belur_Math%2C_Howrah%2C_West_Bengal%2C_India.jpg",
+    "imageCredit": "Yogabrata Chakraborty / Billjones94 · CC BY-SA 4.0",
+    "imageCaption": "Ramakrishna Mission Vivekananda Institute at Belur Math",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Belur, Howrah",
+        "query": "Ramakrishna Mission Vivekananda Educational and Research Institute, Belur, Howrah, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-44",
+    "name": "Bidhan Chandra Krishi Viswavidyalaya",
+    "city": "Mohanpur, Nadia",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.bckv.edu.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://bckvadmission.in/assets/image/DSC_0407.jpg",
+    "imageSource": "https://bckvadmission.in/",
+    "imageCredit": "bckvadmission.in",
+    "imageCaption": "Bidhan Chandra Krishi Viswavidyalaya Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Mohanpur, Nadia",
+        "query": "Bidhan Chandra Krishi Viswavidyalaya, Mohanpur, Nadia, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-45",
+    "name": "West Bengal University of Animal and Fishery Sciences",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.wbuafscl.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.collegebatch.com/static/clg-gallery/west-bengal-university-of-animal-fishery-sciences-kolkata-250790.jpg",
+    "imageSource": "https://www.collegebatch.com/1178-west-bengal-university-of-animal-and-fishery-sciences-campus-tour-kolkata",
+    "imageCredit": "collegebatch.com",
+    "imageCaption": "West Bengal University of Animal and Fishery Sciences Campus Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "West Bengal University of Animal and Fishery Sciences, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-46",
+    "name": "West Bengal National University of Juridical Sciences",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.nujs.edu/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/WikidataWK17_-_West_Bengal_National_University_of_Juridical_Sciences%2C_Kolkata_09.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AWikidataWK17_-_West_Bengal_National_University_of_Juridical_Sciences%2C_Kolkata_09.jpg",
+    "imageCredit": "Indrajit Das · CC BY-SA 4.0",
+    "imageCaption": "West Bengal National University of Juridical Sciences Entrance",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "West Bengal National University of Juridical Sciences, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-47",
+    "name": "Uttar Banga Krishi Viswavidyalaya",
+    "city": "Cooch Behar",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.ubkv.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/UBKV.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:UBKV.jpg",
+    "imageCredit": "Ganesh8967 · CC BY-SA 4.0",
+    "imageCaption": "Uttar Banga Krishi Viswavidyalaya Entrance",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Cooch Behar",
+        "query": "Uttar Banga Krishi Viswavidyalaya, Cooch Behar, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-48",
+    "name": "West Bengal University of Health Sciences",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.wbuhs.org/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://shikshahub.com/uploads/blogs/1705299395.jpg",
+    "imageSource": "https://shikshahub.com/blog/west-bengal-university-of-health-sciences--wbuhs-kolkata-west-bengal-about-us-courses-eligibility-fees-admission-ranking-syllabus-placement-2024",
+    "imageCredit": "shikshahub.com",
+    "imageCaption": "West Bengal University of Health Sciences Entrance",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "West Bengal University of Health Sciences, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "wb-49",
+    "name": "Aliah University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Specialised university",
+    "url": "https://www.aliah.ac.in/",
+    "source": "https://wbsche.wb.gov.in/universities",
+    "sourceLabel": "West Bengal State Council of Higher Education",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://assets.collegedunia.com/public/image/Screenshot_2025_07_11_130507_1474e23c998cc5d4e553e5021c65b75c.png",
+    "imageSource": "https://collegedunia.com/university/26002-aliah-university-kolkata",
+    "imageCredit": "collegedunia.com",
+    "imageCaption": "Aliah University Main Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kolkata",
+        "query": "Aliah University, Kolkata, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-4",
+    "name": "Visva-Bharati",
+    "city": "Santiniketan",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Central university",
+    "url": "https://www.visvabharati.ac.in/",
+    "source": "https://www.visvabharati.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/41/17/96/vidya-bhavana.jpg?h=-1&s=1&w=1200",
+    "imageSource": "https://www.tripadvisor.com/Attraction_Review-g735771-d2667796-Reviews-Vidya_Bhavana-Santiniketan_Birbhum_District_West_Bengal.html",
+    "imageCredit": "tripadvisor.com",
+    "imageCaption": "Vidya Bhavana at Visva-Bharati University",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Santiniketan",
+        "query": "Visva-Bharati, Santiniketan, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-5",
+    "name": "IIT Kharagpur",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Institute of national importance",
+    "url": "https://www.iitkgp.ac.in/",
+    "source": "https://www.iitkgp.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Main_Building_-_Indian_Institute_of_Technology_-_Kharagpur_-_West_Midnapore_2013-01-26_3687.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMain_Building_-_Indian_Institute_of_Technology_-_Kharagpur_-_West_Midnapore_2013-01-26_3687.JPG",
+    "imageCredit": "Biswarup Ganguly · CC BY 3.0",
+    "imageCaption": "IIT Kharagpur Main Building",
+    "imageLicense": "https://creativecommons.org/licenses/by/3.0/",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Kharagpur",
+        "query": "IIT Kharagpur, Kharagpur, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-6",
+    "name": "IISER Kolkata",
+    "city": "Mohanpur, Nadia",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Institute of national importance",
+    "url": "https://www.iiserkol.ac.in/",
+    "source": "https://www.iiserkol.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.iiserkol.ac.in/web/assets/images/banner/1765454431.jpg",
+    "imageSource": "https://www.iiserkol.ac.in/?trk=public_post-text",
+    "imageCredit": "iiserkol.ac.in",
+    "imageCaption": "IISER Kolkata Campus Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Mohanpur, Nadia",
+        "query": "IISER Kolkata, Mohanpur, Nadia, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-7",
+    "name": "NIT Durgapur",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Institute of national importance",
+    "url": "https://nitdgp.ac.in/",
+    "source": "https://nitdgp.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://nitdgp.ac.in/uploads/Library_Building.png",
+    "imageSource": "https://nitdgp.ac.in/p/library-5",
+    "imageCredit": "NIT Durgapur",
+    "imageCaption": "Central Library, NIT Durgapur",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Durgapur",
+        "query": "NIT Durgapur, Durgapur, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-8",
+    "name": "IIEST Shibpur",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "type": "Public",
+    "kind": "Institute of national importance",
+    "url": "https://www.iiests.ac.in/",
+    "source": "https://www.iiests.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://image-static.collegedunia.com/public/reviewPhotos/748262/IMG-20240610-WA0009.jpg",
+    "imageSource": "https://collegedunia.com/university/28330-indian-institute-of-engineering-science-and-technology-iiest-shibpur-howrah/reviews/page-7",
+    "imageCredit": "collegedunia.com",
+    "imageCaption": "IIEST Shibpur Academic Building",
+    "aliases": [],
+    "campuses": [
+      {
+        "label": "Howrah",
+        "query": "IIEST Shibpur, Howrah, West Bengal, India"
+      }
+    ]
+  },
+  {
+    "id": "in-9",
+    "name": "Vellore Institute of Technology (VIT)",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "type": "Deemed",
+    "kind": "Deemed university",
+    "url": "https://vit.ac.in/",
+    "source": "https://vit.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "courseSource": "https://vit.ac.in/admissions/programmes-offered",
+    "image": "https://school.acmvit.in/images/places/vit-sjt.png",
+    "imageSource": "https://school.acmvit.in/",
+    "imageCredit": "ACM VIT",
+    "imageCaption": "Vellore Institute of Technology (VIT) — photograph from linked source",
+    "aliases": [
+      "VIT",
+      "VIT Vellore"
+    ],
+    "campuses": [
+      {
+        "label": "Vellore",
+        "query": "Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "in-10",
+    "name": "SRM Institute of Science and Technology",
+    "city": "Kattankulathur",
+    "state": "Tamil Nadu",
+    "type": "Deemed",
+    "kind": "Deemed university",
+    "url": "https://www.srmist.edu.in/",
+    "source": "https://www.srmist.edu.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://media.assettype.com/tnm/import/sites/default/files/SRM_University_FB_27012021.jpg?auto=format%2Ccompress&enlarge=true&fit=max&h=675&w=1200",
+    "imageSource": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-srm-university-professor-suspended-for-criticising-operation-sindoor",
+    "imageCredit": "thenewsminute.com",
+    "imageCaption": "SRM Institute of Science and Technology — campus photograph from linked source",
+    "aliases": [
+      "SRM",
+      "SRM IST",
+      "SRM Kattankulathur"
+    ],
+    "campuses": [
+      {
+        "label": "Kattankulathur",
+        "query": "SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "in-11",
+    "name": "Manipal Academy of Higher Education",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "type": "Deemed",
+    "kind": "Deemed university",
+    "url": "https://www.manipal.edu/",
+    "source": "https://www.manipal.edu/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.manipaldubai.com/_next/image?q=75&url=https%3A%2F%2Fmanipalblobstorage.blob.core.windows.net%2Fmanipal-azr-container%2F%2Fairway_management_1_img_97740df153.jpg&w=828",
+    "imageSource": "https://www.manipaldubai.com/worldwide-manipal/manipal-academy-of-higher-education",
+    "imageCredit": "Manipal Dubai",
+    "imageCaption": "Manipal Academy of Higher Education — photograph from linked source",
+    "aliases": [
+      "MAHE",
+      "Manipal Academy of Higher Education"
+    ],
+    "campuses": [
+      {
+        "label": "Manipal",
+        "query": "Manipal Academy of Higher Education, Manipal, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "in-12",
+    "name": "Lovely Professional University (LPU)",
+    "city": "Phagwara",
+    "state": "Punjab",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.lpu.in/",
+    "source": "https://www.lpu.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "contact": "international@lpu.co.in",
+    "contactUrl": "https://www.lpu.in/contact-us/contact-us.php",
+    "image": "https://uploads.sarvgyan.com/2025/01/LPU-Jalandhar.jpeg",
+    "imageSource": "https://www.sarvgyan.com/colleges/lovely-professional-university-jalandhar",
+    "imageCredit": "SarvGyan",
+    "imageCaption": "Lovely Professional University (LPU) — photograph from linked source",
+    "aliases": [
+      "LPU",
+      "Lovely Professional University"
+    ],
+    "campuses": [
+      {
+        "label": "Phagwara",
+        "query": "Lovely Professional University (LPU), Phagwara, Punjab, India"
+      }
+    ]
+  },
+  {
+    "id": "in-13",
+    "name": "Chandigarh University",
+    "city": "Gharuan, Mohali",
+    "state": "Punjab",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://www.cuchd.in/",
+    "source": "https://www.cuchd.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://www.dailyexpertnews.com/wp-content/uploads/2022/02/Chandigarh-University-Placement-sees-highest-package-of-Rs-52-Lakh.jpg",
+    "imageSource": "https://www.dailyexpertnews.com/education-career/chandigarh-university-placement-sees-highest-package-of-rs-52-lakh-steep-rise-from-rs-36-lakh-from-last-year/",
+    "imageCredit": "dailyexpertnews.com",
+    "imageCaption": "Chandigarh University — campus photograph from linked source",
+    "aliases": [
+      "CU",
+      "Chandigarh University"
+    ],
+    "campuses": [
+      {
+        "label": "Gharuan, Mohali",
+        "query": "Chandigarh University, Gharuan, Mohali, Punjab, India"
+      }
+    ]
+  },
+  {
+    "id": "in-14",
+    "name": "BITS Pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "type": "Deemed",
+    "kind": "Deemed university",
+    "url": "https://www.bits-pilani.ac.in/",
+    "source": "https://www.bits-pilani.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "admission": "https://admissions.bits-pilani.ac.in/",
+    "image": "https://bits-pilani-wilp.ac.in/images/gallery/20240212132001-WILP8710_01.jpg",
+    "imageSource": "https://bits-pilani-wilp.ac.in/about/gallery/imagegallery/campus-images.php",
+    "imageCredit": "BITS Pilani WILP",
+    "imageCaption": "BITS Pilani clock tower",
+    "aliases": [
+      "BITS Pilani"
+    ],
+    "campuses": [
+      {
+        "label": "Pilani",
+        "query": "BITS Pilani, Pilani, Rajasthan, India"
+      }
+    ]
+  },
+  {
+    "id": "in-15",
+    "name": "University of Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "Public",
+    "kind": "Central university",
+    "url": "https://www.du.ac.in/",
+    "source": "https://www.du.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://glimpses.du.ac.in/_data/i/upload/2023/01/23/20230123141430-9d332e60-la.jpg",
+    "imageSource": "https://glimpses.du.ac.in/index.php?/category/194",
+    "imageCredit": "University of Delhi",
+    "imageCaption": "Vice Regal Lodge, University of Delhi",
+    "aliases": [
+      "DU",
+      "University of Delhi",
+      "Delhi University"
+    ],
+    "campuses": [
+      {
+        "label": "New Delhi",
+        "query": "University of Delhi, New Delhi, Delhi, India"
+      }
+    ]
+  },
+  {
+    "id": "in-16",
+    "name": "Banaras Hindu University (BHU)",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "type": "Public",
+    "kind": "Central university",
+    "url": "https://www.bhu.ac.in/",
+    "source": "https://www.bhu.ac.in/",
+    "sourceLabel": "Institution website",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/2-bhu-campus-varanasi-uttar-pradesh-state-hero?qlt=82&ts=1726650631433",
+    "imageSource": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+    "imageCredit": "Incredible India",
+    "imageCaption": "Banaras Hindu University (BHU) — campus photograph from linked source",
+    "aliases": [
+      "BHU",
+      "Banaras Hindu University"
+    ],
+    "campuses": [
+      {
+        "label": "Varanasi",
+        "query": "Banaras Hindu University (BHU), Varanasi, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-1",
+    "name": "Kalinga Institute of Industrial Technology",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://kiit.ac.in/",
+    "source": "https://kiit.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "KIIT",
+      "KIIT University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bhubaneswar",
+        "query": "Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India"
+      }
+    ]
+  },
+  {
+    "id": "added-2",
+    "name": "Siksha 'O' Anusandhan",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://soa.ac.in/",
+    "source": "https://soa.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "SOA",
+      "SOA University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bhubaneswar",
+        "query": "Siksha 'O' Anusandhan, Bhubaneswar, Odisha, India"
+      }
+    ]
+  },
+  {
+    "id": "added-3",
+    "name": "Centurion University of Technology and Management",
+    "city": "Bhubaneswar / Paralakhemundi",
+    "state": "Odisha",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://cutm.ac.in/",
+    "source": "https://cutm.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Centurion",
+      "CUTM"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bhubaneswar campus",
+        "query": "Centurion University Jatni Bhubaneswar Odisha India"
+      },
+      {
+        "label": "Paralakhemundi campus",
+        "query": "Centurion University Paralakhemundi Odisha India"
+      }
+    ]
+  },
+  {
+    "id": "added-4",
+    "name": "Chitkara University",
+    "city": "Rajpura",
+    "state": "Punjab",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://chitkara.edu.in/",
+    "source": "https://chitkara.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Chitkara Punjab"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Rajpura",
+        "query": "Chitkara University, Rajpura, Punjab, India"
+      }
+    ]
+  },
+  {
+    "id": "added-5",
+    "name": "Thapar Institute of Engineering and Technology",
+    "city": "Patiala",
+    "state": "Punjab",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://thapar.edu/",
+    "source": "https://thapar.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "TIET",
+      "Thapar University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Patiala",
+        "query": "Thapar Institute of Engineering and Technology, Patiala, Punjab, India"
+      }
+    ]
+  },
+  {
+    "id": "added-6",
+    "name": "Sharda University",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://sharda.ac.in/",
+    "source": "https://sharda.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Sharda"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Greater Noida",
+        "query": "Sharda University, Greater Noida, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-7",
+    "name": "Amity University Uttar Pradesh",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://amity.edu/noida/",
+    "source": "https://amity.edu/noida/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amity Noida"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Noida",
+        "query": "Amity University Uttar Pradesh, Noida, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-8",
+    "name": "Galgotias University",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://galgotiasuniversity.edu.in/",
+    "source": "https://galgotiasuniversity.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Galgotias"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Greater Noida",
+        "query": "Galgotias University, Greater Noida, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-9",
+    "name": "Noida International University",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://niu.edu.in/",
+    "source": "https://niu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "NIU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Greater Noida",
+        "query": "Noida International University, Greater Noida, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-10",
+    "name": "Shiv Nadar University",
+    "city": "Dadri, Greater Noida region",
+    "state": "Uttar Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://snu.edu.in/",
+    "source": "https://snu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "SNU",
+      "Shiv Nadar Delhi NCR"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Dadri, Greater Noida region",
+        "query": "Shiv Nadar University, Dadri, Greater Noida region, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-11",
+    "name": "Aligarh Muslim University",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://amu.ac.in/",
+    "source": "https://amu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "AMU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Aligarh",
+        "query": "Aligarh Muslim University, Aligarh, Uttar Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-12",
+    "name": "Sathyabama Institute of Science and Technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://sathyabama.ac.in/",
+    "source": "https://sathyabama.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Sathyabama University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Chennai",
+        "query": "Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "added-13",
+    "name": "Hindustan Institute of Technology and Science",
+    "city": "Padur, Chennai region",
+    "state": "Tamil Nadu",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://hindustanuniv.ac.in/",
+    "source": "https://hindustanuniv.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "HITS",
+      "Hindustan University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Padur, Chennai region",
+        "query": "Hindustan Institute of Technology and Science, Padur, Chennai region, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "added-14",
+    "name": "Anna University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://annauniv.edu/",
+    "source": "https://annauniv.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Anna"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Chennai",
+        "query": "Anna University, Chennai, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "added-15",
+    "name": "Bharath Institute of Higher Education and Research",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://bharathuniv.ac.in/",
+    "source": "https://bharathuniv.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "BIHER",
+      "Bharath University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Chennai",
+        "query": "Bharath Institute of Higher Education and Research, Chennai, Tamil Nadu, India"
+      }
+    ]
+  },
+  {
+    "id": "added-16",
+    "name": "Christ University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://christuniversity.in/",
+    "source": "https://christuniversity.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Christ",
+      "Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "Christ University, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-17",
+    "name": "Jain University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://jainuniversity.ac.in/",
+    "source": "https://jainuniversity.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Jain",
+      "Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "Jain University, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-18",
+    "name": "REVA University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://reva.edu.in/",
+    "source": "https://reva.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "REVA",
+      "Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "REVA University, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-19",
+    "name": "Presidency University, Bengaluru",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://presidencyuniversity.in/",
+    "source": "https://presidencyuniversity.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Presidency Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "Presidency University, Bengaluru, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-20",
+    "name": "Alliance University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://alliance.edu.in/",
+    "source": "https://alliance.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Alliance",
+      "Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "Alliance University, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-21",
+    "name": "PES University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://pes.edu/",
+    "source": "https://pes.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "PES",
+      "Bangalore"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bengaluru",
+        "query": "PES University, Bengaluru, Karnataka, India"
+      }
+    ]
+  },
+  {
+    "id": "added-22",
+    "name": "University of Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://uohyd.ac.in/",
+    "source": "https://uohyd.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "UoH",
+      "HCU",
+      "Hyderabad Central University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Hyderabad",
+        "query": "University of Hyderabad, Hyderabad, Telangana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-23",
+    "name": "Osmania University",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://osmania.ac.in/",
+    "source": "https://osmania.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "OU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Hyderabad",
+        "query": "Osmania University, Hyderabad, Telangana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-24",
+    "name": "Mahindra University",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://mahindrauniversity.edu.in/",
+    "source": "https://mahindrauniversity.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Mahindra"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Hyderabad",
+        "query": "Mahindra University, Hyderabad, Telangana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-25",
+    "name": "Woxsen University",
+    "city": "Kamkole, Hyderabad region",
+    "state": "Telangana",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://woxsen.edu.in/",
+    "source": "https://woxsen.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Woxsen"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Kamkole, Hyderabad region",
+        "query": "Woxsen University, Kamkole, Hyderabad region, Telangana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-26",
+    "name": "ICFAI Foundation for Higher Education",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://ifheindia.org/",
+    "source": "https://ifheindia.org/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "IFHE",
+      "ICFAI University Hyderabad",
+      "IBS Hyderabad"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Hyderabad",
+        "query": "ICFAI Foundation for Higher Education, Hyderabad, Telangana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-27",
+    "name": "SRM University AP",
+    "city": "Neerukonda, Mangalagiri region",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://srmap.edu.in/",
+    "source": "https://srmap.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "SRM AP",
+      "SRM-AP"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Neerukonda, Mangalagiri region",
+        "query": "SRM University AP, Neerukonda, Mangalagiri region, Andhra Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-28",
+    "name": "Koneru Lakshmaiah Education Foundation",
+    "city": "Vaddeswaram",
+    "state": "Andhra Pradesh",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://kluniversity.in/",
+    "source": "https://kluniversity.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "KL University",
+      "KLEF"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Vaddeswaram",
+        "query": "Koneru Lakshmaiah Education Foundation, Vaddeswaram, Andhra Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-29",
+    "name": "VIT-AP University",
+    "city": "Amaravati",
+    "state": "Andhra Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://vitap.ac.in/",
+    "source": "https://vitap.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "VIT AP"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Amaravati",
+        "query": "VIT-AP University, Amaravati, Andhra Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-30",
+    "name": "GITAM",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://gitam.edu/",
+    "source": "https://gitam.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Gandhi Institute of Technology and Management"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Visakhapatnam",
+        "query": "GITAM, Visakhapatnam, Andhra Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-31",
+    "name": "Symbiosis International University",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://siu.edu.in/",
+    "source": "https://siu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "SIU",
+      "Symbiosis"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Pune",
+        "query": "Symbiosis International University, Pune, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "added-32",
+    "name": "MIT World Peace University",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://mitwpu.edu.in/",
+    "source": "https://mitwpu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "MIT WPU",
+      "MIT-WPU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Pune",
+        "query": "MIT World Peace University, Pune, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "added-33",
+    "name": "Bharati Vidyapeeth",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://bharatividyapeeth.edu/",
+    "source": "https://bharatividyapeeth.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "BVDU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Pune",
+        "query": "Bharati Vidyapeeth, Pune, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "added-34",
+    "name": "SVKM's Narsee Monjee Institute of Management Studies",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://nmims.edu/",
+    "source": "https://nmims.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "NMIMS"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Mumbai",
+        "query": "SVKM's Narsee Monjee Institute of Management Studies, Mumbai, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "added-35",
+    "name": "D Y Patil University",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://dypatil.edu/",
+    "source": "https://dypatil.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "DY Patil",
+      "D Y Patil Navi Mumbai"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Navi Mumbai",
+        "query": "D Y Patil University, Navi Mumbai, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "added-36",
+    "name": "Manipal University Jaipur",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://jaipur.manipal.edu/",
+    "source": "https://jaipur.manipal.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "MUJ"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Jaipur",
+        "query": "Manipal University Jaipur, Jaipur, Rajasthan, India"
+      }
+    ]
+  },
+  {
+    "id": "added-37",
+    "name": "JECRC University",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://jecrcuniversity.edu.in/",
+    "source": "https://jecrcuniversity.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "JECRC"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Jaipur",
+        "query": "JECRC University, Jaipur, Rajasthan, India"
+      }
+    ]
+  },
+  {
+    "id": "added-38",
+    "name": "Amity University Rajasthan",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://amity.edu/jaipur/",
+    "source": "https://amity.edu/jaipur/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amity Jaipur"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Jaipur",
+        "query": "Amity University Rajasthan, Jaipur, Rajasthan, India"
+      }
+    ]
+  },
+  {
+    "id": "added-39",
+    "name": "Mody University of Science and Technology",
+    "city": "Lakshmangarh",
+    "state": "Rajasthan",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://modyuniversity.ac.in/",
+    "source": "https://modyuniversity.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Mody University"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Lakshmangarh",
+        "query": "Mody University of Science and Technology, Lakshmangarh, Rajasthan, India"
+      }
+    ]
+  },
+  {
+    "id": "added-40",
+    "name": "Parul University",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://paruluniversity.ac.in/",
+    "source": "https://paruluniversity.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Parul"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Vadodara",
+        "query": "Parul University, Vadodara, Gujarat, India"
+      }
+    ]
+  },
+  {
+    "id": "added-41",
+    "name": "Marwadi University",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://marwadiuniversity.ac.in/",
+    "source": "https://marwadiuniversity.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Marwadi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Rajkot",
+        "query": "Marwadi University, Rajkot, Gujarat, India"
+      }
+    ]
+  },
+  {
+    "id": "added-42",
+    "name": "Nirma University",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://nirmauni.ac.in/",
+    "source": "https://nirmauni.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Nirma"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Ahmedabad",
+        "query": "Nirma University, Ahmedabad, Gujarat, India"
+      }
+    ]
+  },
+  {
+    "id": "added-43",
+    "name": "Pandit Deendayal Energy University",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://pdeu.ac.in/",
+    "source": "https://pdeu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "PDEU",
+      "PDPU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Gandhinagar",
+        "query": "Pandit Deendayal Energy University, Gandhinagar, Gujarat, India"
+      }
+    ]
+  },
+  {
+    "id": "added-44",
+    "name": "O.P. Jindal Global University",
+    "city": "Sonipat",
+    "state": "Haryana",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://jgu.edu.in/",
+    "source": "https://jgu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "OP Jindal",
+      "JGU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Sonipat",
+        "query": "O.P. Jindal Global University, Sonipat, Haryana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-45",
+    "name": "Ashoka University",
+    "city": "Sonipat",
+    "state": "Haryana",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://ashoka.edu.in/",
+    "source": "https://ashoka.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Ashoka"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Sonipat",
+        "query": "Ashoka University, Sonipat, Haryana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-46",
+    "name": "BML Munjal University",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://bmu.edu.in/",
+    "source": "https://bmu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "BMU",
+      "BML Munjal",
+      "Gurgaon"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Gurugram",
+        "query": "BML Munjal University, Gurugram, Haryana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-47",
+    "name": "Maharishi Markandeshwar (Deemed to be University)",
+    "city": "Mullana",
+    "state": "Haryana",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://mmumullana.in/",
+    "source": "https://mmumullana.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "MM University",
+      "MMU",
+      "MM DU",
+      "Mullana Ambala"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Mullana",
+        "query": "Maharishi Markandeshwar (Deemed to be University), Mullana, Haryana, India"
+      }
+    ]
+  },
+  {
+    "id": "added-48",
+    "name": "Graphic Era (Deemed to be University)",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://geu.ac.in/",
+    "source": "https://geu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Graphic Era University",
+      "GEU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Dehradun",
+        "query": "Graphic Era (Deemed to be University), Dehradun, Uttarakhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-49",
+    "name": "University of Petroleum and Energy Studies",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://upes.ac.in/",
+    "source": "https://upes.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "UPES"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Dehradun",
+        "query": "University of Petroleum and Energy Studies, Dehradun, Uttarakhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-50",
+    "name": "DIT University",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://dituniversity.edu.in/",
+    "source": "https://dituniversity.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "DIT"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Dehradun",
+        "query": "DIT University, Dehradun, Uttarakhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-51",
+    "name": "Dev Bhoomi Uttarakhand University",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://dbuu.ac.in/",
+    "source": "https://dbuu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "DBUU",
+      "Dev Bhoomi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Dehradun",
+        "query": "Dev Bhoomi Uttarakhand University, Dehradun, Uttarakhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-52",
+    "name": "Assam University",
+    "city": "Silchar",
+    "state": "Assam",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://aus.ac.in/",
+    "source": "https://aus.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Assam University Silchar"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Silchar",
+        "query": "Assam University, Silchar, Assam, India"
+      }
+    ]
+  },
+  {
+    "id": "added-53",
+    "name": "Gauhati University",
+    "city": "Guwahati",
+    "state": "Assam",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://gauhati.ac.in/",
+    "source": "https://gauhati.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "GU",
+      "Gauhati"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Guwahati",
+        "query": "Gauhati University, Guwahati, Assam, India"
+      }
+    ]
+  },
+  {
+    "id": "added-54",
+    "name": "The Assam Royal Global University",
+    "city": "Guwahati",
+    "state": "Assam",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://rgu.ac/",
+    "source": "https://rgu.ac/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Royal Global University",
+      "RGU"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Guwahati",
+        "query": "The Assam Royal Global University, Guwahati, Assam, India"
+      }
+    ]
+  },
+  {
+    "id": "added-55",
+    "name": "Assam down town University",
+    "city": "Guwahati",
+    "state": "Assam",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://adtu.in/",
+    "source": "https://adtu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "AdtU",
+      "Assam Downtown"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Guwahati",
+        "query": "Assam down town University, Guwahati, Assam, India"
+      }
+    ]
+  },
+  {
+    "id": "added-56",
+    "name": "Sikkim Manipal University",
+    "city": "Gangtok / Majitar",
+    "state": "Sikkim",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://smu.edu.in/",
+    "source": "https://smu.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "SMU",
+      "SMIT",
+      "Sikkim Manipal Institute of Technology"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Tadong, Gangtok",
+        "query": "Sikkim Manipal University 5th Mile Tadong Gangtok Sikkim India",
+        "address": "5th Mile, Tadong, Gangtok, Sikkim",
+        "source": "https://www.smu.edu.in/smit/mandatory-disclosure.php"
+      },
+      {
+        "label": "SMIT, Majitar",
+        "query": "Sikkim Manipal Institute of Technology Majitar Rangpo Sikkim 737136 India",
+        "address": "Majitar, Rangpo, Sikkim 737136",
+        "source": "https://www.smu.edu.in/contact-us.php"
+      }
+    ]
+  },
+  {
+    "id": "added-57",
+    "name": "Sikkim University",
+    "city": "Gangtok / Yangang",
+    "state": "Sikkim",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://cus.ac.in/",
+    "source": "https://cus.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Central University of Sikkim"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Gangtok / Yangang",
+        "query": "Sikkim University, Gangtok / Yangang, Sikkim, India"
+      }
+    ]
+  },
+  {
+    "id": "added-58",
+    "name": "Jawaharlal Nehru University",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://jnu.ac.in/",
+    "source": "https://jnu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "JNU",
+      "New Delhi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Delhi",
+        "query": "Jawaharlal Nehru University, Delhi, Delhi, India"
+      }
+    ]
+  },
+  {
+    "id": "added-59",
+    "name": "Jamia Millia Islamia",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://jmi.ac.in/",
+    "source": "https://jmi.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "JMI",
+      "Jamia",
+      "New Delhi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Delhi",
+        "query": "Jamia Millia Islamia, Delhi, Delhi, India"
+      }
+    ]
+  },
+  {
+    "id": "added-60",
+    "name": "Delhi Technological University",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://dtu.ac.in/",
+    "source": "https://dtu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "DTU",
+      "DCE"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Delhi",
+        "query": "Delhi Technological University, Delhi, Delhi, India"
+      }
+    ]
+  },
+  {
+    "id": "added-61",
+    "name": "Nalanda University",
+    "city": "Rajgir",
+    "state": "Bihar",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://nalandauniv.edu.in/",
+    "source": "https://nalandauniv.edu.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Nalanda"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Rajgir",
+        "query": "Nalanda University, Rajgir, Bihar, India"
+      }
+    ]
+  },
+  {
+    "id": "added-62",
+    "name": "Amity University Patna",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://amity.edu/patna/",
+    "source": "https://amity.edu/patna/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amity Bihar"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Patna",
+        "query": "Amity University Patna, Patna, Bihar, India"
+      }
+    ]
+  },
+  {
+    "id": "added-63",
+    "name": "Birla Institute of Technology Mesra",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://bitmesra.ac.in/",
+    "source": "https://bitmesra.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "BIT Mesra",
+      "BIT Ranchi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Ranchi",
+        "query": "Birla Institute of Technology Mesra, Ranchi, Jharkhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-64",
+    "name": "Amity University Jharkhand",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://amity.edu/ranchi/",
+    "source": "https://amity.edu/ranchi/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amity Ranchi"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Ranchi",
+        "query": "Amity University Jharkhand, Ranchi, Jharkhand, India"
+      }
+    ]
+  },
+  {
+    "id": "added-65",
+    "name": "VIT Bhopal University",
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://vitbhopal.ac.in/",
+    "source": "https://vitbhopal.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "VIT Bhopal"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Sehore",
+        "query": "VIT Bhopal University, Sehore, Madhya Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-66",
+    "name": "LNCT University",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://lnctu.ac.in/",
+    "source": "https://lnctu.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "LNCT"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Bhopal",
+        "query": "LNCT University, Bhopal, Madhya Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-67",
+    "name": "Amity University Madhya Pradesh",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "type": "Private",
+    "kind": "Private university",
+    "url": "https://amity.edu/gwalior/",
+    "source": "https://amity.edu/gwalior/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amity Gwalior"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Gwalior",
+        "query": "Amity University Madhya Pradesh, Gwalior, Madhya Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "added-68",
+    "name": "Amrita Vishwa Vidyapeetham — Kerala campuses",
+    "city": "Amritapuri / Kochi",
+    "state": "Kerala",
+    "type": "Deemed",
+    "kind": "Deemed-to-be university",
+    "url": "https://amrita.edu/",
+    "source": "https://amrita.edu/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Amrita University",
+      "Amrita Kerala"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Amritapuri",
+        "query": "Amrita Vishwa Vidyapeetham Amritapuri Kerala India",
+        "source": "https://www.amrita.edu/campus/amritapuri/"
+      },
+      {
+        "label": "Kochi",
+        "query": "Amrita Vishwa Vidyapeetham Kochi Kerala India",
+        "source": "https://www.amrita.edu/campus/kochi/"
+      }
+    ]
+  },
+  {
+    "id": "added-69",
+    "name": "University of Kerala",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://keralauniversity.ac.in/",
+    "source": "https://keralauniversity.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "Kerala University",
+      "Trivandrum"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Thiruvananthapuram",
+        "query": "University of Kerala, Thiruvananthapuram, Kerala, India"
+      }
+    ]
+  },
+  {
+    "id": "added-70",
+    "name": "Cochin University of Science and Technology",
+    "city": "Kochi",
+    "state": "Kerala",
+    "type": "Public",
+    "kind": "Public university",
+    "url": "https://cusat.ac.in/",
+    "source": "https://cusat.ac.in/",
+    "sourceLabel": "Institution website — confirm current details",
+    "courses": [],
+    "fields": [],
+    "checked": "6 November 2026",
+    "aliases": [
+      "CUSAT",
+      "Cochin"
+    ],
+    "dataStatus": "Requested listing added; programme, fee and exact campus details awaiting verification",
+    "campuses": [
+      {
+        "label": "Kochi",
+        "query": "Cochin University of Science and Technology, Kochi, Kerala, India"
+      }
+    ]
+  }
+]
